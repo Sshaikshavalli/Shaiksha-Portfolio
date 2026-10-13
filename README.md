@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shaik Shaikshavalli - Portfolio (React + Vite)
 
 ## Quick look (no setup)
@@ -31,3 +32,7 @@ src/
   index.css               design tokens, dark and light themes
 public/                   resume PDF
 ```
+=======
+# Shaiksha-Portfolio
+Developer portfolio website built with React and Vite.
+>>>>>>> c9a1ff19d74dbfa6f30150ef752a0de0c12a57bf
